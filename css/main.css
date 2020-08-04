@@ -1,0 +1,31 @@
+@import fonts.css;
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.head {
+	margin-top: 0px;
+	padding: 25px;
+	
+	background-color: #dddddd;
+	text-align: center;
+	font-family: 'Inconsolata', monospace;
+}
+
+.side {
+	float: left;
+	width: 15%;
+	height: 1000px;
+	
+	background-color: #eeeeee;
+}
+
+.content {
+	float: right;
+	width: 85%;
+	height: 1000px;
+	background-color: #ffffff;
+}
+
